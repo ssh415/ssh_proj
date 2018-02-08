@@ -1,3 +1,9 @@
 # ssh_proj
 
-Node.js+sequelize.js实现与数据库交互
+宏腾管理平台
+
+技术栈：
+
+后台 - node.js、express、sequelize
+
+前端 - extjs
